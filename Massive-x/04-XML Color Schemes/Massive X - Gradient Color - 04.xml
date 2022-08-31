@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<a:clrScheme xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" name="Nova">
+
+<a:dk1><a:srgbClr val="172144"/></a:dk1>
+<a:lt1><a:srgbClr val="FFFFFF"/></a:lt1>
+
+
+
+<a:dk2><a:srgbClr val="4956E4"/></a:dk2>
+<a:lt2><a:srgbClr val="4D3FBD"/></a:lt2>
+
+<a:accent1><a:srgbClr val="807AF2"/></a:accent1>
+<a:accent2><a:srgbClr val="799CEA"/></a:accent2>
+<a:accent3><a:srgbClr val="FF4041"/></a:accent3>
+<a:accent4><a:srgbClr val="FF0A0B"/></a:accent4>
+<a:accent5><a:srgbClr val="8694FD"/></a:accent5>
+<a:accent6><a:srgbClr val="4D61FC"/></a:accent6>
+
+<a:hlink><a:srgbClr val="2F8299"/></a:hlink>
+<a:folHlink><a:srgbClr val="8C8C8C"/></a:folHlink>
+
+</a:clrScheme>
